@@ -2,4 +2,7 @@
 --valor = ["As","2","3","4","5","6","sota","caballo","Rey"]
 --pinta = ["Oro","Bastos","Espadas","Copas"]
 --mazo = [noum ++ " " ++ adjetive | noum <- valor, adjetive <- pinta]
-putStrLn "¨Probando github"
+putStrLn "ï¿½Probando github"
+
+sdsd
+sdsdsds
