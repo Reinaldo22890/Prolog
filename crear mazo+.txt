@@ -4,3 +4,5 @@
 --mazo = [noum ++ " " ++ adjetive | noum <- valor, adjetive <- pinta]
 putStrLn "�Probando github"
 dfdf
+sdsd
+sdsdsds
