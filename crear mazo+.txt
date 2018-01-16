@@ -1,8 +1,0 @@
--------------FUNCION QUE CREA UN MAZO DE CARTAS---------------------------
---valor = ["As","2","3","4","5","6","sota","caballo","Rey"]
---pinta = ["Oro","Bastos","Espadas","Copas"]
---mazo = [noum ++ " " ++ adjetive | noum <- valor, adjetive <- pinta]
-putStrLn "�Probando github"
-dfdf
-sdsd
-sdsdsds
